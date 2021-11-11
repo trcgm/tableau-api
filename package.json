@@ -1,10 +1,22 @@
 {
   "name": "tableau-api",
-  "version": "2.0.0",
-  "description": "Tableau JavaScript API wrapped as an NPM module.",
+  "version": "1.0.0",
+  "description": "npm for tableau api",
+  "main": "tableau-2.0.0.js",
+  "scripts": {
+    "test": "test"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ilyabo/tableau-api.git"
+    "url": "git+https://github.com/trcgm/tableau-api.git"
   },
-  "main": "tableau-2.0.0.js"
+  "keywords": [
+    "tableau"
+  ],
+  "author": "trcgm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trcgm/tableau-api/issues"
+  },
+  "homepage": "https://github.com/trcgm/tableau-api#readme"
 }
